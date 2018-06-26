@@ -1,2 +1,4 @@
 This is just a test!
-���Ա���git���Զ��git���ͬ��
+测试本地git库和远程git库的同步
+测试本地文件上传到GitHub库
+修改本地test库的已有文件，并进行测试上传处理。
